@@ -1,6 +1,5 @@
 # Travel log
 
-
 ## Setup
 
 Make sure to install dependencies:
